@@ -1,0 +1,5 @@
+package gl.javafsd.paymoney.transactions;
+
+public class TargetAcheivementCalculator {
+
+}

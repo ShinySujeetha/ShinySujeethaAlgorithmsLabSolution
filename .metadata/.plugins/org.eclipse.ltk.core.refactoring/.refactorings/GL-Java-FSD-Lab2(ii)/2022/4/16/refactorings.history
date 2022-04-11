@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;gl.javafsd.travellers.driverClass.MAin&apos; to &apos;Main&apos;&#x0D;&#x0A;- Original project: &apos;GL-Java-FSD-Lab2(ii)&apos;&#x0D;&#x0A;- Original element: &apos;gl.javafsd.travellers.driverClass.MAin&apos;&#x0D;&#x0A;- Renamed element: &apos;gl.javafsd.travellers.driverClass.Main&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MAin&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;gl.javafsd.travellers.driverClass{MAin.java[MAin" matchStrategy="1" name="Main" qualified="false" references="true" similarDeclarations="false" stamp="1649697783713" textual="false" version="1.0"/>
+</session>

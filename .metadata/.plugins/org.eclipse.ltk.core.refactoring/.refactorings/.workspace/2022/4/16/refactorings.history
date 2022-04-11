@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;GL-Java-FSD-Lab2&apos; to &apos;GL-Java-FSD-Lab2(i)&apos;&#x0D;&#x0A;- Original element: &apos;GL-Java-FSD-Lab2&apos;&#x0D;&#x0A;- Renamed element: &apos;GL-Java-FSD-Lab2&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;GL-Java-FSD-Lab2&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=GL-Java-FSD-Lab2" name="GL-Java-FSD-Lab2(i)" references="true" stamp="1649669612466" version="1.0"/>
+</session>

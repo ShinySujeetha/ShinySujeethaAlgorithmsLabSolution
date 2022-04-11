@@ -1,0 +1,21 @@
+package gl.javafsd.travellers.currency;
+import java.util.Arrays;
+
+public class CurrencyDenominationCalculator {
+	private int[] denominations;
+	private int paymentAmmount;
+	
+	private int[] resultantDenominationArray;
+	private int[] resultantDenominationCountArray;
+	
+	public CurrencyDenominationCalculator(int[] denominations,int paymentAmmount) {
+		this.denominations = denominations;
+		this.paymentAmmount = paymentAmmount;
+		this.resultantDenominationArray = new int[denominations.length];
+		this.resultantDenominationCountArray = new int[denominations.length];
+		
+		
+	}
+	
+
+}
