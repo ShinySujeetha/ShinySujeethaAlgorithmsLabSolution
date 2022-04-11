@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;gl.javafsd.paymoney.driverClass&apos; to &apos;gl.javafsd.paymoneyDriverClass&apos;&#x0D;&#x0A;- Original project: &apos;GL-Java-FSD-Lab2(i)&apos;&#x0D;&#x0A;- Original element: &apos;GL-Java-FSD-Lab2(i)/src/gl.javafsd.paymoney.driverClass&apos;&#x0D;&#x0A;- Renamed element: &apos;GL-Java-FSD-Lab2(i)/src/gl.javafsd.paymoneyDriverClass&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;gl.javafsd.paymoney.driverClass&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;gl.javafsd.paymoney.driverClass" name="gl.javafsd.paymoneyDriverClass" qualified="false" references="true" stamp="1649700446767" textual="false" version="1.0"/>
+</session>
